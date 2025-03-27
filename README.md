@@ -99,10 +99,3 @@ Conteúdo livre para uso, modificação e redistribuição com os devidos crédi
 ---
 
 **Feito por [rivaed](https://github.com/rivaed) – agilidade ninja na hora do boot.**
-```
-
----
-
-Se quiser, posso gerar o `SafeBootNinja.ps1` já formatado e pronto para upload, junto com um `LICENSE` no padrão MIT.
-
-Deseja seguir para o próximo repositório da lista? Posso continuar com o `windows-disable-cortana-clean-search`.
